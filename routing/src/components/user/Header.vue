@@ -15,8 +15,6 @@
       exact>
         <a>User</a>
       </router-link>
-
-
   </ul>
 </template>
 
